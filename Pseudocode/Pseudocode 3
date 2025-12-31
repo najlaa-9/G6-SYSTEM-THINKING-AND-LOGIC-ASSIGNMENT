@@ -1,1 +1,13 @@
+(View Book Details)
 
+	START 
+		Display list of available books
+		Display “Select book ID to view details”
+		Input bookID
+		Retrieve book using bookID
+			Display “Title : “,book.title
+			Display “Author : “,book.author
+			Display “Price : “,book.price
+			Display “Description : “,book.description
+			Display “Availability : “,book.stock
+	END
