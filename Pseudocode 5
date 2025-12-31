@@ -1,1 +1,19 @@
+(Checkout and Place Order)
+
+	START
+		Display cart items
+		Display totalPrice
+		Display “Proceed to checkout? (Yes/No)”
+		IF choice == “Yes” THEN
+			process payment
+			IF payment successful THEN
+				Generate orderID
+				Display “Order placed successfully”
+			ELSE
+				Display “Payment failed”
+			ENDIF
+		ELSE
+			Display “Checkout cancelled”
+		ENDIF
+	END
 
