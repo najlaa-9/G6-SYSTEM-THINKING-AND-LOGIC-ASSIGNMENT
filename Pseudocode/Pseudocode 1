@@ -1,1 +1,26 @@
+(User Registration and Login)
+
+	START
+		Display  “1. Register”
+		Display  “2. Login”
+		Input choice
+ 		IF choice == 1 THEN
+			Display “Enter Username : “
+			Input username
+			Display "Enter password:"
+			Input password
+			Save username and password into database
+			Display "Registration successful"
+		ELSE IF choice == 2 THEN
+			DISPLAY "Enter username:"
+			INPUT username
+			Display "Enter password:"
+			Input password
+				IF username AND password match database THEN
+					Display "Login successful"
+				ELSE
+					Display "Invalid username or password"
+				ENDIF
+		ENDIF
+	END
 
