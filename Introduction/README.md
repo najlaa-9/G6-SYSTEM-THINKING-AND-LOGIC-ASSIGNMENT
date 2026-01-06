@@ -16,4 +16,8 @@ In the context of the modern education system and the growing online shopping en
 
 From a system-thinking perspective, the Online Book Shopping System can be decomposed into several interconnected subsystems, including user registration, book search, order processing, payment, and order approval. This modular approach supports a logical system flow, improves usability, and enhances system maintainability while ensuring a positive user experience (Pressman & Maxim, 2020).
 
+Laudon, K. C., & Traver, C. G. (2020). E-commerce: Business, technology, society (16th ed.). Pearson Education.
 
+Pressman, R. S., & Maxim, B. R. (2020). Software engineering: A practitioner’s approach (9th ed.). McGraw-Hill Education.
+
+Turban, E., Outland, J., King, D., Lee, J. K., Liang, T. P., & Turban, D. C. (2018). Electronic commerce: A managerial and social networks perspective (9th ed.). Springer.
